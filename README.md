@@ -1,1 +1,1 @@
-A portfolio website meant to demonstrate my skills in HTML and CSS
+A responsive webpage demonstrating HTML and CSS
